@@ -3,6 +3,7 @@ package com.bing.myretrofit.bean;
 /**
  * Created by RF
  * on 2017/11/28.
+ * 数据筛选类
  */
 
 public class HttpResult<T> {
